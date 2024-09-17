@@ -17,12 +17,14 @@ The primary objective of this project is to develop an interactive system that r
 ->Capturing hand gestures via webcam and accurately detecting hand landmarks.<br/>
 ->Classifying these gestures using a trained machine learning model.<br/>
 ->Converting the recognized signs into spoken language using a text-to-speech engine.<br/>
-->Providing a user-friendly interface that facilitates real-time interaction between sign language users and the system.< br / >
+->Providing a user-friendly interface that facilitates real-time interaction between sign language users and the system.<br/>
 
 # Running the project
-1.Clone the repository.< br / >
-2.Install the required dependencies:< br / >
-  pip install opencv-python mediapipe scikit-learn pyttsx3 matplotlib numpy< br / >
+1.Clone the repository.<br/>
+2.Install the required dependencies:<br/>
+```bash
+# pip install opencv-python mediapipe scikit-learn pyttsx3 matplotlib numpy
+  pip install opencv-python mediapipe scikit-learn pyttsx3 matplotlib numpy<br/>
 3.Run the data collection script to capture images for each gesture.< br / >
 4.Use the preprocessing script to extract landmarks and prepare the dataset.< br / >
 5.Train the model using the model training script.< br / >
