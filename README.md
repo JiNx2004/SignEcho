@@ -8,7 +8,7 @@
 
 # Introduction
 The Deaf and hard-of-hearing live with sign language as their primary means of communication. Generally speaking, the use of sign language by some people further aggravates the communication gap between them and 
-the rest of the world. This project takes a big step toward closing that divide with its ability to translate hand signals into spoken words using computer vision and machine learning techniques.
+the rest of the world. This project takes a big step towards closing that divide with its ability to translate hand signals into spoken words using computer vision and machine learning techniques.
 This system operates by capturing hand gestures through a webcam in real-time, interpreting them with built-in hand tracking algorithms, then displaying the corresponding text and producing an audio output.
 
 # Objective
