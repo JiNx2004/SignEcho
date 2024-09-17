@@ -20,14 +20,19 @@ The primary objective of this project is to develop an interactive system that r
 ->Providing a user-friendly interface that facilitates real-time interaction between sign language users and the system.<br/>
 
 # Running the project
-1.Clone the repository.<br/>
-2.Install the required dependencies:<br/>
-```bash
-# pip install opencv-python mediapipe scikit-learn pyttsx3 matplotlib numpy
-  pip install opencv-python mediapipe scikit-learn pyttsx3 matplotlib numpy<br/>
-3.Run the data collection script to capture images for each gesture.< br / >
-4.Use the preprocessing script to extract landmarks and prepare the dataset.< br / >
-5.Train the model using the model training script.< br / >
+
+1. Clone the repository.<br/>
+
+2. Install the required dependencies:
+   ```bash
+   pip install opencv-python mediapipe scikit-learn pyttsx3 matplotlib numpy
+3.Run the data collection script to capture images for each gesture.<br/>
+
+4.Use the preprocessing script to extract landmarks and prepare the dataset.<br/>
+
+5.Train the model using the model training script.<br/>
+
+6.Run the real-time recognition script with the GUI to start detecting and speaking the recognized gestures.<br/>
 6.Run the real-time recognition script with the GUI to start detecting and speaking the recognized< br / >
 
 
