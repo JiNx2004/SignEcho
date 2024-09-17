@@ -14,9 +14,9 @@ This system operates by capturing hand gestures through a webcam in real-time, i
 # Objective
 The primary objective of this project is to develop an interactive system that recognizes sign language gestures in real-time and translates them into audible speech. This is achieved by:
 
-->Capturing hand gestures via webcam and accurately detecting hand landmarks.< br / >
-->Classifying these gestures using a trained machine learning model.< br / >
-->Converting the recognized signs into spoken language using a text-to-speech engine.< br / >
+->Capturing hand gestures via webcam and accurately detecting hand landmarks.<br/>
+->Classifying these gestures using a trained machine learning model.<br/>
+->Converting the recognized signs into spoken language using a text-to-speech engine.<br/>
 ->Providing a user-friendly interface that facilitates real-time interaction between sign language users and the system.< br / >
 
 # Running the project
